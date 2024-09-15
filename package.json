@@ -1,0 +1,18 @@
+{
+  "name": "react_js",
+  "version": "1.0.0",
+  "description": "This is react_js ",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/chinmay74810/react_js.git)"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Chinmay",
+  "license": "ISC"
+}
